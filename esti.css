@@ -1,0 +1,278 @@
+.portada1
+{
+	background-image: url(portada2.jpeg);
+	top:;
+	width:1500px;
+	height:440px;
+}
+
+.portada1:hover
+{
+    background: url(portada12.jpeg);
+}
+
+.botones
+{
+margin-top:-50px;	
+}
+
+.que
+{
+    width: 270px;
+	height: 100px; 
+	margin-top:-200px;
+	margin-left:160px;
+	background-image: url(que.jpeg);
+
+}
+
+.que:hover
+{
+    width: 270px;
+	height: 100px; 
+	margin-top:1px;
+	margin-left:160px;
+	background-image: url(queh.jpeg);
+
+}
+.para
+{
+    width: 262px;
+	height: 105px; 
+	margin-top:1px;
+	margin-left:130px;
+	background-image: url(para.jpeg);
+
+}
+.para:hover
+{
+    width: 262px;
+	height: 105px; 
+	margin-top:1px;
+	margin-left:130px;
+	background-image: url(parah.jpeg);
+
+}
+.fun
+{
+width: 260px;
+	height: 105px; 
+	margin-top:100px;
+	margin-left:110px;
+	background-image: url(fun.jpeg);
+
+}
+.fun:hover
+{
+width: 260px;
+	height: 105px; 
+	margin-top:100px;
+	margin-left:110px;
+	background-image: url(funh.jpeg);
+
+}
+
+
+.volver
+{
+   width: 210px;
+	height: 80px; 
+	margin-top:600px;
+	margin-left:600px;
+	background-image: url(volver.jpeg);
+
+}
+
+.volver2
+{
+   width: 210px;
+	height: 80px; 
+	margin-top:210px;
+	margin-left:600px;
+	background-image: url(volver.jpeg);
+
+}
+.volver3
+{
+   width: 210px;
+	height: 80px; 
+	margin-top:1px;
+	margin-left:6px;
+	background-image: url(volver.jpeg);
+
+}
+
+.papa{
+	background-image: url(qq.jpeg);
+	position: absolute;
+	top: 10px;
+	left: 250px;
+	height: 580px;
+	width: 910px;
+	z-index: 20;
+}
+
+.boton1{
+	background-image: url(flecha.jpeg);
+	position: absolute;
+	top: 20px;
+	left: 200px;
+	height:120px;
+	width: 60px;
+	z-index: 30;
+}
+
+.boton2{
+	background-image: url(flecha2.jpeg);
+	position: absolute;
+	top: -20px;
+	left: 500px;
+	height:120px;
+	width: 60px;
+	
+	z-index: 30;
+}
+
+.texto1{
+	background-color: yellow;
+    position: absolute;
+	top: 150px;
+	margin-left:30px;
+	height:400px;
+	width: 850px;
+	
+
+}
+
+.foto1{
+background-image: url(tex1.jpeg);
+    position: absolute;
+	top: 150px;
+	left: -600px;
+	height:180px;
+	width: 720px;
+	z-index: 30;
+	display: none;
+	}
+.foto2
+{
+	background-image: url(tex2.jpeg);
+    position: absolute;
+	top: 340px;
+	left: -660px;
+	height:200px;
+	width: 790px;
+	z-index: 30;
+	display: none;
+}
+
+
+
+.boton1:hover .foto1{
+	display: block;
+}
+
+
+.boton2:hover .foto2
+{
+	display: block;
+	}
+
+.boton2:hover .foto1{
+	display: block;
+	}
+
+.portadaq
+{
+	background-image: url(paraq.jpeg);
+	margin-top:10px;
+	margin-left: 250px;
+	width:870px;
+	height:330px;
+}
+
+.b1
+{
+	background-image: url(f1.jpeg);
+	position: absolute;
+	top: 400px;
+	left: 350px;
+	height:120px;
+	width: 60px;
+	z-index: 30;
+}
+
+.t1
+{
+	background-image: url(p1.jpeg);
+	position: absolute;
+	top: 130px;
+	left: -95px;
+	height:210px;
+	width: 280px;
+	z-index: 30;
+	display:none;
+}
+
+.t2
+{
+	background-image: url(p2.jpeg);
+	position: absolute;
+	top: 130px;
+	left: -95px;
+	height:310px;
+	width: 290px;
+	z-index: 30;
+	display:none;
+}
+
+.t3
+{
+	background-image: url(p3.jpeg);
+	position: absolute;
+	top: 130px;
+	left: -60px;
+	height:290px;
+	width: 290px;
+	z-index: 30;
+	display:none;
+}
+
+.b1:hover .t1
+{
+	display: block;
+}
+
+.b2:hover .t2
+{
+	display: block;
+}
+
+.b3:hover .t3
+{
+	display: block;
+}
+
+
+
+.b2
+{
+	background-image: url(f1.jpeg);
+	position: absolute;
+	top: 400px;
+	left: 680px;
+	height:120px;
+	width: 60px;
+	z-index: 30;
+}
+
+.b3
+{
+	background-image: url(f1.jpeg);
+	position: absolute;
+	top: 400px;
+	left: 980px;
+	height:120px;
+	width: 60px;
+	z-index: 30;
+}
